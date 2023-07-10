@@ -1,0 +1,13 @@
+body {
+    background-image: "https://github.com/abolarin100/my-portfolio-website/blob/master/Jeremiah's%20picture.jpeg?raw=true" !important;
+}
+.div {
+    /* background-color: #2c123d; */
+    height: 90vh;
+}
+
+h1, p {
+    text-align: center;
+    color: white;
+
+}
